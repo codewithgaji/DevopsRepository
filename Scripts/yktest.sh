@@ -5,8 +5,6 @@ SCRIPTLISTS=$(ls {1..14}_*)
 HTTPDSTATUS=$(systemctl status httpd | grep Active | awk '{print $2}')
 
 
-
-echo
 echo
 echo "##############################################"
 echo "Welcome to Mr Gaji's Bash Scripting Test"
