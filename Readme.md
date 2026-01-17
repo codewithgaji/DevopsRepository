@@ -23,7 +23,7 @@ Through these scripts, I practiced and understood:
 - Process and service monitoring
 - Memory (RAM) monitoring
 - Conditional logic (`if`, `elif`, `else`)
-- Automation using `crontab`
+- Automation using `crontab
 
 ---
 
